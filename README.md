@@ -37,6 +37,7 @@ while True:
 ```
 
 ## OUTPUT
-![CN ex 2a](https://github.com/user-attachments/assets/33def1d8-0992-4b65-b6f6-899453ba5bcc)
+![Screenshot 2025-03-27 212823](https://github.com/user-attachments/assets/861ce343-e6b2-4b7b-bde6-65b9ef8afafe)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
